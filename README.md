@@ -1,4 +1,8 @@
 # smbd
-3bdb54ae3707d13b089f6242981d292a  smbclient   
-437b9b563fdf42d7825243d77f1462c9  smbd    
-0418c770dcc3f1bee16f03379272a54e  smbpasswd    
+
+
+
+d40d5c6b2b4e70dabba13f49059ebf08  smbclient     
+42da18aed5eda497abc6a3896d89f0ec  smbd     
+4d01e96c24ad0e5fdfd31eb431a65946  smbpasswd        
+
