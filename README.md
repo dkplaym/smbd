@@ -8,4 +8,4 @@ d40d5c6b2b4e70dabba13f49059ebf08  smbclient
 
 
     
-./mount.cifs //192.168.30.101/share /101 -o "username=**,password=**"
+./mount.cifs //192.168.30.101/share /101 -o "username=XXXXXX,password=XXXXXXX"
