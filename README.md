@@ -14,15 +14,27 @@ d40d5c6b2b4e70dabba13f49059ebf08  smbclient
 
 
 socket options = IPTOS_LOWDELAY SO_RCVBUF=131072 SO_SNDBUF=131072 TCP_NODELAY
+
 min receivefile size = 2048
+
 use sendfile = true
+
 aio read size = 2048
+
 aio write size = 2048
+
 write cache size = 1024000
+
 read raw = yes
+
 write raw = yes
+
 getwd cache = yes
+
 oplocks = yes
+
 max xmit = 32768
+
 dead time = 15
+
 large readwrite = yes
